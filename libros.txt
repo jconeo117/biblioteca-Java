@@ -1,0 +1,2 @@
+0116;halo 1;yo mismo;false;la biblioteca;yo mismo
+0117;halo 2;yo mismo;true;la biblioteca;yo mismo 
